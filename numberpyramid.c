@@ -1,4 +1,4 @@
-* Aim - C program to print number pyramid. */
+/* Aim - C program to print number pyramid. */
 #include<stdio.h>
 #include<math.h>
 
