@@ -6,7 +6,7 @@ int main()
     int a,i,sum=0;
     printf("Enter any positive integer till which you want the sum : ");
     scanf("%d",&a);
-    for(i=0;i<=a;i++)
+    for(i=1;i<=a;i++)
     {
        sum += i;
     }
